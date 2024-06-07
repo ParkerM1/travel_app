@@ -18,7 +18,6 @@ I used Kotlin for this app
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Create your first app](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0)
 * [android basics](https://developer.android.com/courses/android-basics-compose/course)
 * [developer android](https://developer.android.com/studio)
